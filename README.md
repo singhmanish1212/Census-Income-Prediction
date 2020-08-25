@@ -4,8 +4,6 @@
 ## Overview:
 - In this notebook, we are going to predict whether a person's income is above 50k or below 50k using various features like age, education, and occupation.
 
-> Read More about it in my [Blogpost](https://medium.com/@adityamankar09/tuning-random-forest-algorithm-to-predict-income-14005371656e)
-
 ## WebApp: 
 > Link: https://census-income-prediction.herokuapp.com/
 ----
